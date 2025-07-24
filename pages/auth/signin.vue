@@ -40,7 +40,7 @@
 
           <!-- Google Sign-In -->
           <v-btn
-            color="white"
+            color="black"
             block
             rounded
             elevation="2"

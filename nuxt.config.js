@@ -9,7 +9,7 @@ export default {
   },
 
   publicRuntimeConfig: {
-    baseURL: process.env.BASE_URL || 'http://localhost:3000',
+    baseURL: process.env.BASE_URL || 'https://qr-app-midterm.vercel.app',
     googleRedirectUri: process.env.GOOGLE_REDIRECT_URI
   },
 
